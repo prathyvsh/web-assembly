@@ -1,2 +1,0 @@
-# web-assembly
-Learning WebAssembly
