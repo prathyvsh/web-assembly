@@ -2,6 +2,40 @@
 Learning WebAssembly
 
 ** Tutorials
-https://rsms.me/wasm-intro
-https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html
-https://marcoselvatici.github.io/WASM_tutorial/
+- https://rsms.me/wasm-intro
+A well written intro with neat pictures illustrating how WebAssembly works.
+
+- https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html
+- https://marcoselvatici.github.io/WASM_tutorial/
+
+** Books
+
+*** Read
+
+*** Others
+
+**** WebAssembly in Action
+[[WebAssembly In Action Cover][./webassembly-in-action.jpg]]
+https://www.manning.com/books/webassembly-in-action
+
+**** Level Up Wasm
+[[Level Up Wasm Cover][./level-up-webassembly.png]]
+https://levelupwasm.com/
+
+** Tools
+
+*** Dedicated Metalanguages
+https://github.com/dcodeIO/AssemblyScript
+
+*** Node.js
+https://github.com/dcodeIO/webassembly
+
+*** Infrastructure
+https://github.com/WebAssembly/binaryen
+
+** History
+
+asm.js
+PNaCl
+*** 2017
+Major browser support: https://www.infoq.com/news/2017/12/webassembly-browser-support
