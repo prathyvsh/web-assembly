@@ -12,6 +12,11 @@ A well written intro with neat pictures illustrating how WebAssembly works.
 
 *** Read
 
+WebAssembly Literacy
+https://docs.google.com/document/d/1K8EjLSKl62s_M7ZkDfuOizdsamv2UKUwwQRF2DmIba0/edit#
+
+A really well written book to learn to write WebAssembly by hand.
+
 *** Others
 
 **** WebAssembly in Action
