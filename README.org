@@ -19,19 +19,24 @@ A well written intro with neat pictures illustrating how WebAssembly works.
 https://www.manning.com/books/webassembly-in-action
 
 **** Level Up Wasm
-[[Level Up Wasm Cover][./level-up-webassembly.png]]
+[[Level Up Wasm Cover][./level-up-with-webassembly.png]]
 https://levelupwasm.com/
 
 ** Tools
 
 *** Dedicated Metalanguages
 https://github.com/dcodeIO/AssemblyScript
+https://ballercat.github.io/walt/
 
 *** Node.js
 https://github.com/dcodeIO/webassembly
 
 *** Infrastructure
 https://github.com/WebAssembly/binaryen
+
+*** Emulators
+**** Gameboy
+https://github.com/binji/binjgb
 
 ** History
 
